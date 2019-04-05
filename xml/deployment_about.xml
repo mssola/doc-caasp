@@ -16,9 +16,9 @@
   </dm:docmanager>
   <title>About &productname;</title>
  </info>
- 
+
   <para>
-  &suse; &productname; is a Cloud-Native Computing Foundation (CNCF) certified
+  &productname; is a Cloud-Native Computing Foundation (CNCF) certified
   &kube; distribution on top of &suse; &mos;.
   &suse; &mos; is a minimalist operating system based on &sle;, dedicated
   to hosting containers. &suse; &mos; inherits the benefits of &sle; in the
