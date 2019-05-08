@@ -1,5 +1,9 @@
 == Role Based Access Control (RBAC)
 
+https://kubernetes.io/docs/reference/access-authn-authz/rbac/
+https://github.com/liggitt/audit2rbac
+
+
 === Access Control Concepts
 
 
