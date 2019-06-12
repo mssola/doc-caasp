@@ -4,7 +4,6 @@
   <!ENTITY % entities SYSTEM "entity-decl.ent">
     %entities;
 ]>
-<!-- Converted by suse-upgrade version 1.1 -->
 <chapter version="5.0" xml:id="cha.deploy.about"
   xmlns="http://docbook.org/ns/docbook"
   xmlns:xi="http://www.w3.org/2001/XInclude"
@@ -17,7 +16,26 @@
   <title>About &productname;</title>
  </info>
 
-  <para>
+ <para>
+  &productname; enables
+  
+  
+  Kubernetes, Ready for the Enterprise
+
+SUSE CaaS Platform is an enterprise class container management solution that enables IT and DevOps professionals to more easily deploy, manage, and scale container-based applications and services. It includes Kubernetes to automate lifecycle management of modern applications, and surrounding technologies that enrich Kubernetes and make the platform itself easy to operate. As a result, enterprises that use SUSE CaaS Platform can reduce application delivery cycle times and improve business agility.
+
+SUSE is focused on delivering an exceptional operator experience with SUSE CaaS Platform. With deep competencies in infrastructure, systems, process integration, platform security, lifecycle management and enterprise-grade support, SUSE aims to ensure IT operations teams can deliver the power of Kubernetes to their users quickly, securely and efficiently. With SUSE CaaS Platform you can:
+
+Accelerate modern application delivery with Kubernetes, today’s leading container management platform.
+
+Simplify Kubernetes administration with an exceptional platform operator experience.
+
+Maximize return on investment with a flexible, no lock-in solution.
+
+  
+ </para>
+
+ <para>
   &productname; is a Cloud-Native Computing Foundation (CNCF) certified
   &kube; distribution on top of &suse; &mos;.
   &suse; &mos; is a minimalist operating system based on &sle;, dedicated
